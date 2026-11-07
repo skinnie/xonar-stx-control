@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Xonar Essence STX Control
+Comment=Audio control panel for ASUS Xonar Essence STX
+Exec=/home/skinnie/Projects/xonar-stx-control/xonar-stx-control
+Icon=/home/skinnie/Projects/xonar-stx-control/data/icons/hicolor/scalable/apps/xonar-stx-control.svg
+Terminal=false
+Type=Application
+Categories=AudioVideo;Audio;Mixer;Settings;
+Keywords=xonar;audio;mixer;dac;headphone;
+StartupNotify=true
